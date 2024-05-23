@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // NetworkInterface represents the MAAS Server Interface endpoint

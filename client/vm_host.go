@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/google/go-querystring/query"
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // VMHost contains functionality for manipulating the VMHost entity.

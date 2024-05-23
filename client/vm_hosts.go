@@ -6,7 +6,7 @@ import (
 	"net/url"
 
 	"github.com/google/go-querystring/query"
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // VMHosts contains functionality for manipulating the VMHosts entity.

@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	"github.com/maas/gomaasclient/test/helper"
+	"github.com/apsu/gomaasclient/test/helper"
 )
 
 var sampleNetworkInterface NetworkInterface = NetworkInterface{

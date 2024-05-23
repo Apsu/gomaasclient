@@ -6,7 +6,7 @@ import (
 	"net/url"
 
 	gomaasapi "github.com/juju/gomaasapi/v2"
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // BlockDevicePartition implements the api.BlockDevicePartition

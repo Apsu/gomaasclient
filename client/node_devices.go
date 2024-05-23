@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/google/go-querystring/query"
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // NodeDevices implements api.NodeDevices

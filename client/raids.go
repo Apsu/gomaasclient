@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/go-querystring/query"
 
-	"github.com/maas/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity"
 )
 
 // RAIDs contains functionality for manipulating the RAIDs entity.

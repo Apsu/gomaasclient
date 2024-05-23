@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/maas/gomaasclient/test/helper"
+	"github.com/apsu/gomaasclient/test/helper"
 	"github.com/stretchr/testify/assert"
 )
 

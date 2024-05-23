@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/maas/gomaasclient/entity"
-	"github.com/maas/gomaasclient/entity/subnet"
+	"github.com/apsu/gomaasclient/entity"
+	"github.com/apsu/gomaasclient/entity/subnet"
 )
 
 // Subnet represents the MAAS Subnet endpoint
